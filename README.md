@@ -18,6 +18,7 @@ This simple Python script fetches the current temperature for a specified city u
    git clone https://github.com/your-username/your-repository.git
 
 Navigate to the project directory: cd your-repository
+<br>
 Install the required libraries:pip install requests pypiwin32
 Run the script:python WeatherAPI.py
 
