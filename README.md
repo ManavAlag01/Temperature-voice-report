@@ -20,9 +20,11 @@ This simple Python script fetches the current temperature for a specified city u
 Navigate to the project directory: cd your-repository
 <br>
 Install the required libraries:pip install requests pypiwin32
+<br>
 Run the script:python WeatherAPI.py
 
 requests: Used for making HTTP requests to the WeatherAPI.
+<br>
 pypiwin32: Required for the win32com library for text-to-speech functionality.
 
 
